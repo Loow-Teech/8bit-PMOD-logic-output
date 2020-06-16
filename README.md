@@ -1,6 +1,8 @@
 # 8bit-PMOD-logic-output
 Based on Instant SoC, this repo can display any letter through PMOD interfaces. You will need an at least 8 channel logic analyzer to capture it. Testbench: Nexs4DDR
 
+A CICIEC RISC-V#2 solution.
+
 Note: To make sure you can understant these, please see Instant SoC intro first. Link:https://www.fpga-cores.com/instant-soc/
 
 File folder explained:
